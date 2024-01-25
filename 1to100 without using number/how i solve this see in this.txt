@@ -1,0 +1,9 @@
+in this i am printing 1 to 100 without using numbe 
+
+1. first i learn {American Standard Code for Information Interchange Table}(ascii table)!
+
+2. than using javaScript Logic and now we get
+
+3. result out-put 1
+
+4. than i apply forloop and it's boom out-put is ready 
